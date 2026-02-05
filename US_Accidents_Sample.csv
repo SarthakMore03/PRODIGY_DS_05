@@ -1,0 +1,51 @@
+ID,Severity,Start_Time,Start_Lat,Start_Lng,City,State,Weather_Condition,Traffic_Signal,Junction,Sunrise_Sunset
+A-101,2,2023-01-10 08:30,40.7128,-74.006,New York,NY,Rain,True,False,Day
+A-102,3,2023-01-10 17:45,34.0522,-118.2437,Los Angeles,CA,Clear,False,True,Night
+A-103,2,2023-02-15 08:15,41.8781,-87.6298,Chicago,IL,Snow,True,False,Day
+A-104,4,2023-03-20 23:10,29.7604,-95.3698,Houston,TX,Fog,False,False,Night
+A-105,2,2023-04-05 12:00,39.7392,-104.9903,Denver,CO,Fair,False,True,Day
+A-106,3,2023-05-12 16:20,37.7749,-122.4194,San Francisco,CA,Cloudy,True,False,Day
+A-107,2,2023-06-18 09:00,47.6062,-122.3321,Seattle,WA,Rain,False,False,Day
+A-108,1,2023-07-22 14:30,25.7617,-80.1918,Miami,FL,Partly Cloudy,True,False,Day
+A-109,3,2023-08-30 18:50,33.749,-84.388,Atlanta,GA,Thunderstorm,True,True,Night
+A-110,2,2023-09-14 06:45,42.3601,-71.0589,Boston,MA,Clear,True,False,Day
+A-111,2,2023-01-11 08:05,40.7306,-73.9352,New York,NY,Rain,True,False,Day
+A-112,3,2023-01-11 18:20,34.0522,-118.2437,Los Angeles,CA,Clear,False,False,Night
+A-113,2,2023-02-16 07:45,41.8781,-87.6298,Chicago,IL,Snow,True,True,Day
+A-114,4,2023-03-21 00:30,29.7604,-95.3698,Houston,TX,Fog,False,False,Night
+A-115,2,2023-04-06 13:15,39.7392,-104.9903,Denver,CO,Fair,True,False,Day
+A-116,3,2023-05-13 17:10,37.7749,-122.4194,San Francisco,CA,Cloudy,False,True,Day
+A-117,2,2023-06-19 08:30,47.6062,-122.3321,Seattle,WA,Rain,True,False,Day
+A-118,1,2023-07-23 15:00,25.7617,-80.1918,Miami,FL,Partly Cloudy,False,False,Day
+A-119,3,2023-08-31 19:20,33.749,-84.388,Atlanta,GA,Rain,True,False,Night
+A-120,2,2023-09-15 07:15,42.3601,-71.0589,Boston,MA,Fair,True,False,Day
+A-121,2,2023-01-12 08:45,40.7128,-74.006,New York,NY,Cloudy,True,True,Day
+A-122,3,2023-01-12 17:55,34.0522,-118.2437,Los Angeles,CA,Fair,False,False,Night
+A-123,2,2023-02-17 08:20,41.8818,-87.6231,Chicago,IL,Cloudy,True,False,Day
+A-124,4,2023-03-22 22:50,29.7604,-95.3698,Houston,TX,Rain,False,True,Night
+A-125,2,2023-04-07 11:45,39.7392,-104.9903,Denver,CO,Fair,True,False,Day
+A-126,3,2023-05-14 16:45,37.7749,-122.4194,San Francisco,CA,Fair,True,False,Day
+A-127,2,2023-06-20 09:15,47.6062,-122.3321,Seattle,WA,Rain,False,False,Day
+A-128,1,2023-07-24 14:10,25.7617,-80.1918,Miami,FL,Clear,True,False,Day
+A-129,3,2023-08-01 18:30,33.749,-84.388,Atlanta,GA,Cloudy,True,True,Night
+A-130,2,2023-09-16 07:30,42.3601,-71.0589,Boston,MA,Clear,True,False,Day
+A-131,2,2023-01-13 08:10,40.7128,-74.006,New York,NY,Fair,True,False,Day
+A-132,3,2023-01-13 18:15,34.0522,-118.2437,Los Angeles,CA,Clear,False,False,Night
+A-133,2,2023-02-18 08:00,41.8781,-87.6298,Chicago,IL,Fair,True,False,Day
+A-134,4,2023-03-23 23:45,29.7604,-95.3698,Houston,TX,Fog,False,False,Night
+A-135,2,2023-04-08 12:30,39.7392,-104.9903,Denver,CO,Snow,False,True,Day
+A-136,3,2023-05-15 17:30,37.7749,-122.4194,San Francisco,CA,Cloudy,True,False,Day
+A-137,2,2023-06-21 08:50,47.6062,-122.3321,Seattle,WA,Rain,True,False,Day
+A-138,1,2023-07-25 14:45,25.7617,-80.1918,Miami,FL,Fair,False,False,Day
+A-139,3,2023-08-02 19:10,33.749,-84.388,Atlanta,GA,Thunderstorm,True,False,Night
+A-140,2,2023-09-17 07:05,42.3601,-71.0589,Boston,MA,Fair,True,False,Day
+A-141,2,2023-01-14 08:55,40.7128,-74.006,New York,NY,Snow,True,True,Day
+A-142,3,2023-01-14 17:40,34.0522,-118.2437,Los Angeles,CA,Fair,False,False,Night
+A-143,2,2023-02-19 08:35,41.8781,-87.6298,Chicago,IL,Fair,True,False,Day
+A-144,4,2023-03-24 23:25,29.7604,-95.3698,Houston,TX,Cloudy,False,False,Night
+A-145,2,2023-04-09 13:00,39.7392,-104.9903,Denver,CO,Fair,True,False,Day
+A-146,3,2023-05-16 16:55,37.7749,-122.4194,San Francisco,CA,Fair,True,True,Day
+A-147,2,2023-06-22 09:40,47.6062,-122.3321,Seattle,WA,Rain,False,False,Day
+A-148,1,2023-07-26 14:20,25.7617,-80.1918,Miami,FL,Clear,True,False,Day
+A-149,3,2023-08-03 18:40,33.749,-84.388,Atlanta,GA,Rain,True,False,Night
+A-150,2,2023-09-18 07:45,42.3601,-71.0589,Boston,MA,Fair,True,False,Day
